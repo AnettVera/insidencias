@@ -17,6 +17,8 @@
 	margin: 3rem 20px;
 }
 .borde td {
-  border-bottom: 2px solid#093D83 !important;
+  border-bottom: 2px solid#fff !important;
+  background-color: #E4F0FF;
 }
+
 
